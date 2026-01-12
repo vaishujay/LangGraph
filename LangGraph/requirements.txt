@@ -1,0 +1,6 @@
+langgraph
+ipykernel
+typing_extensions
+langgraph
+langchain-openai
+langchain-core
